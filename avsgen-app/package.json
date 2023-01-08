@@ -12,7 +12,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "avscgen-core": "file:../avscgen-core",
+    "avsgen-core": "file:../avsgen-core/dist",
     "vue": "^3.2.45"
   },
   "devDependencies": {

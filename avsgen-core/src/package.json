@@ -1,0 +1,10 @@
+{
+  "name": "avsgen-core",
+  "version": "1.0.0",
+  "description": "AVSgen-core",
+  "main": "main.js",
+  "types": "@types/index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
